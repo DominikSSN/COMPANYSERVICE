@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COMPANY SERVICE</title>
+    <style>
+        body {
+            background-color: #cfe2f3; /* jasno niebieskie tło strony */
+            font-family: Arial, sans-serif; /* wybrany font */
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            font-size: 48px; /* rozmiar nagłówka */
+            font-style: italic; /* pochylona czcionka */
+            font-weight: bold; /* pogrubiona czcionka */
+            text-align: center; /* wyśrodkowanie tekstu */
+            padding: 40px 0; /* większy margines górny i dolny */
+            background-color: #0056b3; /* niebieski kolor tła nagłówka */
+            color: #fff; /* biały kolor tekstu */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* cień tekstu */
+            border-bottom: 5px solid #003366; /* granica dolna nagłówka */
+            margin-bottom: 20px; /* margines dolny */
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* cień dla efektu 3D */
+        }
+
+        .container {
+            max-width: 1200px; /* szerokość kontenera */
+            margin: 0 auto; /* centrowanie kontenera */
+            padding: 20px; /* margines wewnętrzny kontenera */
+            overflow: hidden; /* ukrywanie zawartości, która może wychodzić poza kontener */
+            display: flex; /* ustawienie elementów w linii */
+            flex-wrap: wrap; /* zawijanie elementów */
+            justify-content: space-between; /* równomierne rozmieszczenie */
+        }
+
+        .image-wrapper {
+            width: calc(33.33% - 20px); /* szerokość 1/3 kontenera z odstępem */
+            margin-bottom: 20px; /* odstęp od dolnej strony */
+            text-align: center; /* wyśrodkowanie tekstu */
+            position: relative; /* pozycja względem rodzica */
+            background-color: #fff; /* białe tło */
+            border-radius: 20px; /* zaokrąglenie krawędzi */
+            overflow: hidden; /* ukrywanie zawartości, która wychodzi poza kontener */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* cień obrazu */
+        }
+
+        .image-wrapper img {
+            width: 80%; /* szerokość obrazu */
+            height: auto; /* zachowanie proporcji obrazu */
+            margin-top: 20px; /* odstęp od góry */
+            border-radius: 20px; /* zaokrąglenie krawędzi obrazu */
+            transition: transform 0.3s ease-in-out; /* płynna animacja */
+        }
+
+        .image-wrapper:hover img {
+            transform: scale(1.1); /* powiększenie obrazu po najechaniu myszką */
+        }
+
+        .link {
+            position: absolute; /* pozycja bezwzględna */
+            bottom: 10px; /* odległość od dołu */
+            right: 10px; /* odległość od prawej */
+            width: 80%; /* szerokość 80% odwracanej w poziomie */
+            background-color: rgba(0, 0, 0, 0.7); /* przezroczyste tło */
+            padding: 5px 10px; /* wewnętrzne marginesy */
+            border-radius: 5px; /* zaokrąglenie krawędzi */
+            transition: background-color 0.3s; /* płynna animacja */
+            text-align: center; /* wyśrodkowanie tekstu */
+            opacity: 0; /* ukrycie linku */
+        }
+
+        .image-wrapper:hover .link {
+            opacity: 1; /* pokazanie linku po najechaniu myszką */
+        }
+
+        .link a {
+            text-decoration: none; /* brak podkreślenia dla linku */
+            color: #fff; /* biały kolor tekstu linku */
+            font-size: 20px; /* większa czcionka linku */
+        }
+
+        /* Dodatkowe ozdoby */
+        .decoration {
+            position: fixed; /* pozycja bezwzględna */
+            top: 0; /* przyleganie do góry */
+            left: 0; /* przyleganie do lewej */
+            width: 100%; /* pełna szerokość */
+            height: 50px; /* wysokość dekoracji */
+            background-color: #0056b3; /* kolor tła dekoracji */
+            z-index: -1; /* indeks warstwy niżej niż reszta */
+            transform: skewY(-3deg); /* przekoszenie w pionie */
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* cień dla efektu 3D */
+        }
+
+        .decoration::after {
+            content: ""; /* pusta zawartość */
+            position: absolute; /* pozycja bezwzględna */
+            bottom: 0; /* przyleganie do dołu */
+            left: 0; /* przyleganie do lewej */
+            width: 100%; /* pełna szerokość */
+            height: 50px; /* wysokość dekoracji */
+            background-color: #fff; /* kolor tła dekoracji */
+            z-index: -1; /* indeks warstwy niżej niż reszta */
+            transform: skewY(3deg); /* przekoszenie w pionie */
+        }
+    </style>
+</head>
+<body>
+    <div class="decoration"></div>
+    <div class="header">COMPANY SERVICE</div>
+    <div class="container">
+        <!-- Linia sektorowa 1 -->
+        <div class="image-wrapper">
+            <img src="your_image_url1.jpg" alt="Image 1">
+            <div class="link">
+                <a href="your_link_url1">Link 1</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url2.jpg" alt="Image 2">
+            <div class="link">
+                <a href="your_link_url2">Link 2</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url3.jpg" alt="Image 3">
+            <div class="link">
+                <a href="your_link_url3">Link 3</a>
+            </div>
+        </div>
+        <!-- Linia sektorowa 2 -->
+        <div class="image-wrapper">
+            <img src="your_image_url4.jpg" alt="Image 4">
+            <div class="link">
+                <a href="your_link_url4">Link 4</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url5.jpg" alt="Image 5">
+            <div class="link">
+                <a href="your_link_url5">Link 5</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url6.jpg" alt="Image 6">
+            <div class="link">
+                <a href="your_link_url6">Link 6</a>
+            </div>
+        </div>
+        <!-- Linia sektorowa 3 -->
+        <div class="image-wrapper">
+            <img src="your_image_url7.jpg" alt="Image 7">
+            <div class="link">
+                <a href="your_link_url7">Link 7</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url8.jpg" alt="Image 8">
+            <div class="link">
+                <a href="your_link_url8">Link 8</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url9.jpg" alt="Image 9">
+            <div class="link">
+                <a href="your_link_url9">Link 9</a>
+            </div>
+        </div>
+        <!-- Linia sektorowa 4 -->
+        <div class="image-wrapper">
+            <img src="your_image_url10.jpg" alt="Image 10">
+            <div class="link">
+                <a href="your_link_url10">Link 10</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url11.jpg" alt="Image 11">
+            <div class="link">
+                <a href="your_link_url11">Link 11</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url12.jpg" alt="Image 12">
+            <div class="link">
+                <a href="your_link_url12">Link 12</a>
+            </div>
+        </div>
+        <!-- Linia sektorowa 5 -->
+        <div class="image-wrapper">
+            <img src="your_image_url13.jpg" alt="Image 13">
+            <div class="link">
+                <a href="your_link_url13">Link 13</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url14.jpg" alt="Image 14">
+            <div class="link">
+                <a href="your_link_url14">Link 14</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url15.jpg" alt="Image 15">
+            <div class="link">
+                <a href="your_link_url15">Link 15</a>
+            </div>
+        </div>
+        <!-- Linia sektorowa 6 -->
+        <div class="image-wrapper">
+            <img src="your_image_url16.jpg" alt="Image 16">
+            <div class="link">
+                <a href="your_link_url16">Link 16</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url17.jpg" alt="Image 17">
+            <div class="link">
+                <a href="your_link_url17">Link 17</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url18.jpg" alt="Image 18">
+            <div class="link">
+                <a href="your_link_url18">Link 18</a>
+            </div>
+        </div>
+        <!-- Linia sektorowa 7 -->
+        <div class="image-wrapper">
+            <img src="your_image_url19.jpg" alt="Image 19">
+            <div class="link">
+                <a href="your_link_url19">Link 19</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="your_image_url20.jpg" alt="Image 20">
+            <div class="link">
+                <a href="your_link_url20">Link 20</a>
+            </div>
+        </div>
+        <div class="image-wrapper">
+            <img src="https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg" alt="Image 21">
+            <div class="link">
+                <a href="https://www.youtube.com">Link 21</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
