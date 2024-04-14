@@ -90,7 +90,8 @@
                 <a href="#">Przejdź do strony</a>
             </div>
         </div>
-        <!-- Linia sektorowa 1 -->
+
+        <!-- Sektor 2 -->
         <div class="sector-line">
             <div class="sector">
                 <img src="your_image_url.jpg" alt="Grafika">
@@ -102,7 +103,8 @@
                 <a href="#">Przejdź do strony</a>
             </div>
         </div>
-        <!-- Linia sektorowa 2 -->
+
+        <!-- Sektor 3 -->
         <div class="sector-line">
             <div class="sector">
                 <img src="your_image_url.jpg" alt="Grafika">
@@ -114,7 +116,8 @@
                 <a href="#">Przejdź do strony</a>
             </div>
         </div>
-        <!-- Linia sektorowa 3 -->
+
+        <!-- Sektor 4 -->
         <div class="sector-line">
             <div class="sector">
                 <img src="your_image_url.jpg" alt="Grafika">
@@ -126,7 +129,8 @@
                 <a href="#">Przejdź do strony</a>
             </div>
         </div>
-        <!-- Linia sektorowa 4 -->
+
+        <!-- Sektor 5 -->
         <div class="sector-line">
             <div class="sector">
                 <img src="your_image_url.jpg" alt="Grafika">
@@ -138,7 +142,8 @@
                 <a href="#">Przejdź do strony</a>
             </div>
         </div>
-        <!-- Linia sektorowa 5 -->
+
+        <!-- Sektor 6 -->
         <div class="sector-line">
             <div class="sector">
                 <img src="your_image_url.jpg" alt="Grafika">
@@ -150,7 +155,8 @@
                 <a href="#">Przejdź do strony</a>
             </div>
         </div>
-        <!-- Linia sektorowa 6 -->
+
+        <!-- Sektor 7 -->
         <div class="sector-line">
             <div class="sector">
                 <img src="your_image_url.jpg" alt="Grafika">
@@ -162,7 +168,8 @@
                 <a href="#">Przejdź do strony</a>
             </div>
         </div>
-        <!-- Linia sektorowa 7 -->
+
+        <!-- Sektor 8 -->
         <div class="sector-line">
             <div class="sector">
                 <img src="your_image_url.jpg" alt="Grafika">
@@ -174,7 +181,8 @@
                 <a href="#">Przejdź do strony</a>
             </div>
         </div>
-        <!-- Linia sektorowa 8 -->
+
+        <!-- Sektor 9 -->
         <div class="sector-line">
             <div class="sector">
                 <img src="your_image_url.jpg" alt="Grafika">
@@ -186,7 +194,8 @@
                 <a href="#">Przejdź do strony</a>
             </div>
         </div>
-        <!-- Linia sektorowa 9 -->
+
+        <!-- Sektor 10 -->
         <div class="sector-line">
             <div class="sector">
                 <img src="your_image_url.jpg" alt="Grafika">
@@ -198,18 +207,7 @@
                 <a href="#">Przejdź do strony</a>
             </div>
         </div>
-        <!-- Linia sektorowa 10 -->
-        <div class="sector-line">
-            <div class="sector">
-                <img src="your_image_url.jpg" alt="Grafika">
-            </div>
-            <div class="sector-description">
-                Miejsce na opis
-            </div>
-            <div class="link-box">
-                <a href="#">Przejdź do strony</a>
-            </div>
-        </div>
+
     </div>
 </body>
 </html>
