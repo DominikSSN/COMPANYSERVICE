@@ -116,7 +116,7 @@
                 <img src="https://static2.mylead.global/img/programs/logo/program_191263_1585832647.PNG" alt="Grafika">
             </div>
             <div class="sector-description">
-                <p>"Kuki.pl to przyjazna pozabankowa instytucja finansowa, która pomaga uzyskać środki na pokrycie niespodziewanych wydatków.
+                <p> "Kuki.pl to przyjazna pozabankowa instytucja finansowa, która pomaga uzyskać środki na pokrycie niespodziewanych wydatków.
 
 Relacja z klientem jest dla nas nadrzędną wartością, dlatego wszystkie nasze działania ukierunkowane są na to, by nasza pożyczka była dla Ciebie najwygodniejsza, najszybsza oraz najkorzystniejsza."</p>
             </div>
