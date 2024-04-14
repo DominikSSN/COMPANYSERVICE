@@ -95,13 +95,13 @@
         <!-- Sektor 2 -->
         <div class="sector-line">
             <div class="sector">
-                <img src="your_image_url.jpg" alt="Grafika">
+                <img src="https://ratka.pl/formularz/img/logo-ratka.png" alt="Grafika">
             </div>
             <div class="sector-description">
-                Miejsce na opis
+               Ratka.pl nie jest firmą pożyczkową. To pośrednik pożyczkowy zapewniający najwyższą jakość usług w sektorze pozabankowych pożyczek online.
             </div>
             <div class="link-box">
-                <a href="#">Przejdź do strony</a>
+                <a href="#">https://redirecting8.eu/p/rJXM/NqPX/hE3H</a>
             </div>
         </div>
 
