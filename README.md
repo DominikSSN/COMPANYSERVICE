@@ -81,13 +81,13 @@
     <div class="container">
         <div class="sector-line">
             <div class="sector">
-                <img src="your_image_url.jpg" alt="Grafika">
+                <img src="https://www.google.com/imgres?q=finansowe%20posi%C5%82ki%20logo&imgurl=https%3A%2F%2Ferppolska.pl%2Fwp-content%2Fuploads%2F2021%2F01%2Ffinansowe-posilki-logo.png&imgrefurl=https%3A%2F%2Ferppolska.pl%2Fpozyczki%2Ffinansoweposilki%2F&docid=BznrCExiZTfEZM&tbnid=D2fuUeM77dju1M&vet=12ahUKEwjm5o7UiMKFAxVHExAIHfpmDRsQM3oECBoQAA..i&w=300&h=300&hcb=2&ved=2ahUKEwjm5o7UiMKFAxVHExAIHfpmDRsQM3oECBoQAA" alt="Grafika">
             </div>
             <div class="sector-description">
-                Miejsce na opis
+                Finansoweposilki.pl to nowa marka na rynku pożyczek online. Zaskoczył Cię wysoki rachunek za wodę? A może zepsuła Ci się lodówka i potrzebujesz sfinansować zakup nowej? Oferujemy ekspresowe wsparcie finansowe. Udzielamy pożyczek przez internet od 300 do 5000 zł na maksymalnie 30 dni. Gwarantujemy: minimum formalności, szybką decyzję oraz przelew gotówki na konto nawet w kilka minut. Wszystko po to, aby pomóc Ci opłacić pilne i niespodziewane rachunki.
             </div>
             <div class="link-box">
-                <a href="#">Przejdź do strony</a>
+                <a href="https://redirecting8.eu/p/rJXM/P2mQ/s68L">Przejdź do strony</a>
             </div>
         </div>
 
