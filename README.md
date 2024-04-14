@@ -101,7 +101,7 @@
                Ratka.pl nie jest firmą pożyczkową. To pośrednik pożyczkowy zapewniający najwyższą jakość usług w sektorze pozabankowych pożyczek online.
             </div>
             <div class="link-box">
-                <a href="#">https://redirecting8.eu/p/rJXM/NqPX/hE3H"<Przejdź do strony</a>
+                <a href="https://redirecting8.eu/p/rJXM/NqPX/hE3H"<Przejdź do strony</a>
             </div>
         </div>
 
