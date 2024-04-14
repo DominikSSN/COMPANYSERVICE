@@ -88,7 +88,7 @@
                 Finansoweposilki.pl to nowa marka na rynku pożyczek online. Zaskoczył Cię wysoki rachunek za wodę? A może zepsuła Ci się lodówka i potrzebujesz sfinansować zakup nowej? Oferujemy ekspresowe wsparcie finansowe. Udzielamy pożyczek przez internet od 300 do 5000 zł na maksymalnie 30 dni. Gwarantujemy: minimum formalności, szybką decyzję oraz przelew gotówki na konto nawet w kilka minut. Wszystko po to, aby pomóc Ci opłacić pilne i niespodziewane rachunki.
             </div>
             <div class="link-box">
-                <a href="https://redirecting8.eu/p/rJXM/P2mQ/s68L">Przejdź do strony</a>
+               <a href="https://redirecting8.eu/p/rJXM/NqPX/hE3H">Przejdź do strony</a>
             </div>
         </div>
 
