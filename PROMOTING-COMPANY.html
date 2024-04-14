@@ -82,7 +82,7 @@
         <!-- Sektor 1 -->
         <div class="sector-line">
             <div class="sector">
-                <img src="https://redirecting8.eu/p/rJXM/P2mQ/s68L" alt="Grafika">
+                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpozyczkaportal.pl%2Fpozyczki%2Ffinansowe-posilki%2F&psig=AOvVaw2PcUMhtP_wwhcVLXMjMrjR&ust=1713198241414000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODts_iOwoUDFQAAAAAdAAAAABAE" alt="Grafika">
             </div>
             <div class="sector-description">
                 Finansoweposilki.pl to nowa marka na rynku pożyczek online. Zaskoczył Cię wysoki rachunek za wodę? A może zepsuła Ci się lodówka i potrzebujesz sfinansować zakup nowej? Oferujemy ekspresowe wsparcie finansowe. Udzielamy pożyczek przez internet od 300 do 5000 zł na maksymalnie 30 dni. Gwarantujemy: minimum formalności, szybką decyzję oraz przelew gotówki na konto nawet w kilka minut. Wszystko po to, aby pomóc Ci opłacić pilne i niespodziewane rachunki.
